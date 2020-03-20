@@ -1,4 +1,4 @@
-public class MailBuilder {
+public class Building {
 
     public static void main(String[] args) {
         Builder mail = new Builder();
@@ -20,7 +20,7 @@ public class MailBuilder {
     private String subject;
     private String text;
 
-    public MailBuilder() {
+    public Building() {
     }
 
     public String getTo() {
