@@ -1,10 +1,15 @@
 enum MailType {
-    SIMPLE, MIME
+    SIMPLE,
+    MIME
 }
 
 abstract class Mail {
 
     private MailType mailType;
+
+    private Header header;
+    private Body body;
+    private Attach attach;
 
     Mail(MailType mailType) {
         this.mailType = mailType;
@@ -13,6 +18,7 @@ abstract class Mail {
 
     private void arrangeParts() {
         // Do one time processing here
+        this.header = new Header(mailType);
     }
 
     // Do subclass level processing in this method
@@ -45,10 +51,16 @@ class SimpleMail extends Mail {
     protected void construct() {
         System.out.println("Building simple mail");
         // Add accessories
+        // Build Header
+        Header.Builder header = new Header.Builder();
+        // Build Body
+        // Build Attach
     }
 }
 
 class MimeMail extends Mail {
+
+    private Attach attach;
 
     MimeMail() {
         super(MailType.MIME);
@@ -62,7 +74,7 @@ class MimeMail extends Mail {
     }
 }
 
-class MailFactory {
+public class MailFactory {
     static Mail buildMail(MailType mailType) {
         Mail mail = null;
         switch (mailType) {
@@ -84,6 +96,7 @@ class MailFactory {
 
 class TestMail {
     public static void main(String[] args) {
+
         System.out.println(MailFactory.buildMail(MailType.SIMPLE));
         System.out.println(MailFactory.buildMail(MailType.MIME));
     }
