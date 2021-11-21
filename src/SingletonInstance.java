@@ -11,9 +11,10 @@ enum SingletonEnum {
 class SingletonInstance {
     public static void main(String[] args) {
 //        System.out.println(SingletonEnum.INSTANCE);
+//        System.out.println();
         SingletonEnum.singletonMethod();
+        System.out.println();
         System.out.println(SingletonEnum.INSTANCE);
-        System.out.print(SingletonEnum.INSTANCE);
         System.out.println();
         SingletonEnum.singletonMethod();
     }
