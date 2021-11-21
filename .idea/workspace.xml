@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3505e398-9f52-4e79-990d-92e3c11b66fd" name="Default Changelist" comment="Made MailFactory">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZAKroxm7PkOwNAQWduDxteQuoH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../pattern" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnimalFactory">
+    <configuration name="AnimalFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalFactory" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonInstance" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnimalFactory" />
+        <item itemvalue="Application.SingletonInstance" />
+        <item itemvalue="Application.Generic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3505e398-9f52-4e79-990d-92e3c11b66fd" name="Default Changelist" comment="" />
+      <created>1584276660017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584276660017</updated>
+      <workItem from="1584276662014" duration="261000" />
+      <workItem from="1584282359959" duration="454000" />
+      <workItem from="1584285143332" duration="584000" />
+      <workItem from="1584303787315" duration="516000" />
+      <workItem from="1584304340860" duration="16000" />
+      <workItem from="1584344231932" duration="2844000" />
+      <workItem from="1584351874792" duration="77000" />
+      <workItem from="1584351954898" duration="7000" />
+      <workItem from="1584362799880" duration="1393000" />
+      <workItem from="1584378498007" duration="12000" />
+      <workItem from="1584378545783" duration="746000" />
+      <workItem from="1584398459007" duration="70000" />
+      <workItem from="1584431809894" duration="742000" />
+      <workItem from="1584447445615" duration="251000" />
+      <workItem from="1584450155758" duration="229000" />
+      <workItem from="1584456100599" duration="653000" />
+      <workItem from="1584476423197" duration="126000" />
+      <workItem from="1584616049877" duration="637000" />
+      <workItem from="1584692080311" duration="1664000" />
+      <workItem from="1584694088100" duration="10584000" />
+      <workItem from="1584729482437" duration="444000" />
+      <workItem from="1584731557192" duration="591000" />
+      <workItem from="1584736241343" duration="623000" />
+      <workItem from="1584774838434" duration="157000" />
+      <workItem from="1584784212179" duration="21000" />
+      <workItem from="1584799041499" duration="2780000" />
+      <workItem from="1584872050565" duration="592000" />
+      <workItem from="1584884142655" duration="598000" />
+      <workItem from="1584891532413" duration="597000" />
+      <workItem from="1584901327911" duration="136000" />
+      <workItem from="1584905468661" duration="597000" />
+      <workItem from="1584919764711" duration="12000" />
+      <workItem from="1584970864889" duration="1031000" />
+      <workItem from="1584972182570" duration="10000" />
+      <workItem from="1584991912439" duration="1175000" />
+      <workItem from="1585043858876" duration="4000" />
+      <workItem from="1585086133759" duration="2034000" />
+      <workItem from="1585132432029" duration="6227000" />
+      <workItem from="1585144144603" duration="2549000" />
+      <workItem from="1585147518400" duration="100000" />
+      <workItem from="1585153957931" duration="1093000" />
+      <workItem from="1585165964144" duration="1541000" />
+      <workItem from="1585174832939" duration="8512000" />
+      <workItem from="1585226009208" duration="324000" />
+      <workItem from="1585302142932" duration="5000" />
+      <workItem from="1585325351741" duration="1308000" />
+      <workItem from="1585345697658" duration="13000" />
+      <workItem from="1585409542813" duration="1351000" />
+      <workItem from="1585421349194" duration="13000" />
+      <workItem from="1585660612665" duration="686000" />
+      <workItem from="1585682584648" duration="613000" />
+      <workItem from="1585685398228" duration="98000" />
+      <workItem from="1585718625005" duration="28000" />
+      <workItem from="1586589131183" duration="809000" />
+      <workItem from="1589376583404" duration="33000" />
+      <workItem from="1590468355317" duration="79000" />
+      <workItem from="1595315214648" duration="6000" />
+      <workItem from="1597403293271" duration="28000" />
+      <workItem from="1598254598636" duration="605000" />
+      <workItem from="1598285153875" duration="593000" />
+      <workItem from="1598335141707" duration="35000" />
+      <workItem from="1600586682800" duration="91000" />
+      <workItem from="1600928657629" duration="304000" />
+      <workItem from="1601018525655" duration="612000" />
+      <workItem from="1601034425942" duration="1225000" />
+      <workItem from="1603468976562" duration="18000" />
+      <workItem from="1604216396426" duration="29000" />
+      <workItem from="1604216634136" duration="5000" />
+      <workItem from="1617134960079" duration="216000" />
+      <workItem from="1617135204830" duration="1000" />
+      <workItem from="1617135209666" duration="39000" />
+      <workItem from="1617170817127" duration="1496000" />
+      <workItem from="1617251982286" duration="51000" />
+      <workItem from="1617252163234" duration="2422000" />
+      <workItem from="1617368292490" duration="439000" />
+      <workItem from="1617620182468" duration="93000" />
+      <workItem from="1617621002379" duration="112000" />
+      <workItem from="1622020578902" duration="16000" />
+      <workItem from="1623482721960" duration="11000" />
+      <workItem from="1623482984986" duration="5000" />
+      <workItem from="1623484079885" duration="36000" />
+      <workItem from="1623512024487" duration="19000" />
+      <workItem from="1624291595984" duration="1000" />
+      <workItem from="1624477235669" duration="689000" />
+      <workItem from="1624603620596" duration="788000" />
+      <workItem from="1637488742462" duration="555000" />
+      <workItem from="1637522829689" duration="136000" />
+      <workItem from="1637522980717" duration="200000" />
+      <workItem from="1637523218835" duration="297000" />
+      <workItem from="1637523683387" duration="221000" />
+      <workItem from="1637523942690" duration="1320000" />
+    </task>
+    <task id="LOCAL-00001" summary="Made CarFactory">
+      <created>1584693598021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584693598021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made CarFactory">
+      <created>1584693642777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584693642777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Made MailFactory">
+      <created>1584694775297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584694775297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made CarFactory" />
+    <MESSAGE value="Made MailFactory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made MailFactory" />
+  </component>
+</project>
